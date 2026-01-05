@@ -10,6 +10,11 @@ CHUNITHMのプレイデータを統計的に分析し、現在の実力値に基
 * **OverPower (OP) ギャップ診断**: CHUNITHMの仕様に基づき、楽曲ごとの最大OPを計算します。「予測される期待OP」と「現在のOP」の差分（GAP）を算出し、効率的にOPを伸ばせる楽曲を特定します。
 * **データ取得の柔軟性**: `chunirec` APIからのデータ取得、またはローカルのJSONファイル利用の両方に対応しています。
 
+
+<img width="1322" height="480" alt="image" src="https://github.com/user-attachments/assets/b91d9dc6-88da-419f-a695-6668c834b2ba" />
+
+
+
 ## 動作要件
 
 * Python 3.8+
